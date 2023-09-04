@@ -1,0 +1,18 @@
+{
+  "name": "lerna-react-components",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "panmengquan <1253177019@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/reactComponents.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/reactComponents.test.js"
+  }
+}

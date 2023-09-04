@@ -1,6 +1,6 @@
 {
   "name": "panmengquan-lerna",
-  "private": true,
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
